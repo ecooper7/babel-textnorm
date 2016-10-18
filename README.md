@@ -27,6 +27,7 @@ contact: ecooper@cs.columbia.edu
 
     - Add any collected web data to the appropriate directories.
     - Update lc_ with your new language code.
+    - Add your language to mongo_lc_.
     - If the language does not use the Latin character set, add it to the non_latin_ list.
     - Update numeral_regex_ for your language.  
       Most languages just use latin_numeral_regex, but e.g. Telugu has some of 
